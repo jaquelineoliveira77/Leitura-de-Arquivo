@@ -21,7 +21,6 @@ public class LeitorTexto {
         Scanner ler = new Scanner(System.in);
 
         //caminho do arquivo
-        //C:\Users\Jaqueline Oliveira\Desktop\Ciência da Computação - IFSC\6 ª Fase\Sistemas Distribuídos/Matriz.txt
         System.out.printf("Informe o caminho do arquivo texto:\n");
         String nome = ler.nextLine();
 
