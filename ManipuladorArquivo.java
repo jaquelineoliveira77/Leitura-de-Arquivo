@@ -79,7 +79,8 @@ public class ManipuladorArquivo {
     }
 
     public static void main(String args[]) throws IOException {
-        String path = "C:\\Users\\Jaqueline Oliveira\\Desktop\\Ciência da Computação - IFSC\\6 ª Fase\\Sistemas Distribuídos/file.txt";
+        //caminho para o arquivo /exemplo jaqueline Oliveira/file.txt
+        String path = "....."
 
         ManipuladorArquivo.escritor(path);
         ManipuladorArquivo.leitor(path);
